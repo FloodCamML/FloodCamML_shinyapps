@@ -24,4 +24,3 @@ Code for deploying the application to [Google Cloud Run](https://cloud.google.co
 ## About the CamML Project
 
 CamML is an open source project for crowd labeling and ML prediction of real-time webcam imagery. See the full project description at [floodcamml.org](https://floodcamml.org/).
-
